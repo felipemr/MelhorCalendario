@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:MelhorHistorico.xcodeproj">
+      location = "self:MelhorCalendario.xcodeproj">
    </FileRef>
 </Workspace>

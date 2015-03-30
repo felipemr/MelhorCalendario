@@ -1,8 +1,8 @@
 //
 //  AppDelegate.m
-//  MelhorHistorico
+//  MelhorCalendario
 //
-//  Created by Felipe Marques Ramos on 25/03/15.
+//  Created by Felipe Marques Ramos on 29/03/15.
 //  Copyright (c) 2015 Felipe Marques Ramos. All rights reserved.
 //
 

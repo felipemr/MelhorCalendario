@@ -1,19 +1,19 @@
 //
-//  MelhorHistoricoTests.m
-//  MelhorHistoricoTests
+//  MelhorCalendarioTests.m
+//  MelhorCalendarioTests
 //
-//  Created by Felipe Marques Ramos on 25/03/15.
+//  Created by Felipe Marques Ramos on 29/03/15.
 //  Copyright (c) 2015 Felipe Marques Ramos. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface MelhorHistoricoTests : XCTestCase
+@interface MelhorCalendarioTests : XCTestCase
 
 @end
 
-@implementation MelhorHistoricoTests
+@implementation MelhorCalendarioTests
 
 - (void)setUp {
     [super setUp];
